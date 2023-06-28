@@ -40,7 +40,7 @@ async fn main() {
 get(|| async { response::Json(kq1) }),
     );
 
-    let addr = SocketAddr::from(([0, 0, 0, 0], 8000));
+    let addr = SocketAddr::from(([0, 0, 0, 0], 3000));
     println!("->> listen on {addr}\n");
     axum::Server::bind(&addr)
         .serve(routes_hello.into_make_service())
