@@ -1,0 +1,12 @@
+/home/lam/slack/target/debug/deps/getrandom-fc38f6b3856651d2.rmeta: /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/lam/slack/target/debug/deps/libgetrandom-fc38f6b3856651d2.rlib: /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/lam/slack/target/debug/deps/getrandom-fc38f6b3856651d2.d: /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs:
+/home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs:
+/home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs:
+/home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs:
+/home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs:
+/home/lam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs:
