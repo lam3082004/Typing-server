@@ -4,6 +4,7 @@ use scraper::{Html, Selector};
 use axum::Router;
 use axum::response;
 use axum::routing::get;
+use tower_http::cors::{CorsLayer};
 // use derive_new::new;
 // use serde::{Serialize}; 
 // mod data;
@@ -38,7 +39,7 @@ async fn main() {
     let routes_hello = Router::new().route(
         "/",
 get(|| async { response::Json(kq1) }),
-    );
+    ).layer(CorsLayer::permissive());
 
     let addr = SocketAddr::from(([0, 0, 0, 0], 5678));
     println!("->> listen on {addr}\n");
