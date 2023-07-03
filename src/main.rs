@@ -21,9 +21,10 @@ async fn main() {
         names.push("tuht97");
         names.push("mikamokedo");
         names.push("anhchile");
-        names.push("lovehary90");
+        names.push("loveharry90");
         names.push("tainh274");
         names.push("phieulong97");
+        names.push("vince_stone_133");
 
     // let mut kq = Vec::new();
     // for username in names {
